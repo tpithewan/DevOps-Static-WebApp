@@ -24,3 +24,5 @@ This repository contains a simple static website and a GitHub Actions workflow f
 2. Enable GitHub Pages in the repository settings.
 3. Choose the GitHub Actions deployment source.
 4. Push to main and watch the workflow run.
+
+python -m http.server 8000
