@@ -1,4 +1,4 @@
-## DevOps-Static-WebApp
+# DevOps-Static-WebApp
 
 This repository contains a simple static website and a GitHub Actions workflow for automatic deployment to GitHub Pages.
 
